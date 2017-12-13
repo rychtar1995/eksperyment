@@ -1,5 +1,5 @@
 # Krajobrazy 
 
-- słońce 
+- **słońce** 
 
 ![To jest slońce](slonce.jpg)
